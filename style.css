@@ -1,0 +1,112 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-width img{
+    width: 70%;
+}
+
+#padding-down{
+    padding-bottom: 20px;
+}
+
+.link-btn{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
+
+#padding-up{
+    margin-top: 50px;
+}
+
+.border{
+    border-left: 8px solid #FF5959;
+    padding-left: 5px;
+}
+
+#color{
+    color: #FFAD5A;
+}
+
+.develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 400px;
+}
+
+.develop img{
+    padding-left: 60px;
+}
+
+.know-our{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 400px;
+}
+
+.half-width-two{
+    width: 30%;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(105, 93, 93);
+}
+
+.small-pic{
+    width: 50%;
+}
+
+#first-box{
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+#second-box{
+    background-color: rgba(255, 89, 89, 0.1);
+}
+#third-box{
+    background-color: #FFF4D6;
+}
+
+.mission{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.hobby h1{
+    text-align: center;
+}
+
+.hobby img{
+    width: 60%;
+    padding-left: 100px;
+}
+.hobby h1{
+    padding-right: 50px;
+}
